@@ -7,3 +7,6 @@
 • My main finding was that there was a degree of forecast inefficiency in the predictions made by the bookmakers for all 3 match outcomes (home wins, away wins and draws) over the 22 seasons. This was due to a consistent lack of  information used to inform predictions demonstrated by one cohort of bookmakers compared to another cohort of bookmakers, leading to forecast inefficiency across the 22 year period analysed
 
 • This is a key finding revealed by the comprehensive multiple regression analysis I conducted. This research furthermore implies that there are opportunities to make money in football betting markets as the market for bookmaker odds is not perfect
+
+
+
